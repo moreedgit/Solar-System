@@ -7,7 +7,12 @@ public class Main {
         FactorX.Moon="1";
         FactorX.Sun="1";
         FactorX.Star="1";
+// adding features for planet 2
 
+        Planet2 Olso = new Planet2();
+        Olso.name="Ozhan";
+        Olso.size="694254km";
+        Olso.color="pink";
 
     }
 }
